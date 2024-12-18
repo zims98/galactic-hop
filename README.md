@@ -1,2 +1,9 @@
-# galactic-hop
-This is a 2D Flappy Bird replica with a space theme. It swaps between a "jumping" astronaut and a flying spaceship. Collect as many stars as possible without touching any obstacles.
+This is an early project made in Unity.
+
+Some of the scripts include logic for:
+- Player movement (jumping and flying)
+- obstacle spawning
+- score management
+- background movement and transitioning
+
+A playable WebGL build can be found here: https://zims.itch.io/galactic-hop
